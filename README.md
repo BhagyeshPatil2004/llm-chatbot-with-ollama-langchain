@@ -42,11 +42,13 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 
 ## 📁 Project Structure
 \`\`\`
+
 ├── ollama.py        # Streamlit + LangChain + Ollama integration
 
 ├── .env             # Optional environment variables
 
 ├── requirements.txt # Required dependencies (Optional)
+
 \`\`\`
 
 ---
