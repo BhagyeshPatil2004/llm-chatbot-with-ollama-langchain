@@ -18,12 +18,12 @@ This is a lightweight AI assistant demo built using [LangChain](https://github.c
 ### 1. Prerequisites
 - Python 3.10+
 - Ollama installed and model pulled:
-  \`\`\`bash
+  \`\`\`
   ollama pull llama3
   \`\`\`
 
 ### 2. Setup
-\`\`\`bash
+\`\`\`
 git clone https://github.com/BhagyeshPatil2004/langchain-ollama-demo.git
 cd langchain-ollama-demo
 python -m venv .venv
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 \`\`\`
 
 ### 3. Run the App
-\`\`\`bash
+\`\`\`
 streamlit run ollama.py
 \`\`\`
 
@@ -43,7 +43,9 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 ## 📁 Project Structure
 \`\`\`
 ├── ollama.py        # Streamlit + LangChain + Ollama integration
+
 ├── .env             # Optional environment variables
+
 ├── requirements.txt # Required dependencies (Optional)
 \`\`\`
 
