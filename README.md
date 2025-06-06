@@ -1,4 +1,4 @@
-# LangChain + Ollama + LLaMA 3 Chatbot Demo
+# LangChain + Ollama + LLaMA 3 Chatbot 
 
 This is a lightweight AI assistant demo built using [LangChain](https://github.com/langchain-ai/langchain), [Ollama](https://github.com/ollama/ollama), and [Streamlit](https://streamlit.io/). It uses the locally running LLaMA 3 model served via Ollama to answer user queries in a friendly UI.
 
